@@ -1,0 +1,4 @@
+$bgcolor: cyan;
+html {
+    background-color: lighten($bgcolor, 10%);
+}
